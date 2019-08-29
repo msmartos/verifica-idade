@@ -1,4 +1,4 @@
-# Hora do dia
+# Verifica Idade
 Verifica a idade e o sexo informado e altera a imagem exibida de acordo com os dados.  
 Projeto desenvolvido durante a realização do curso: Curso Grátis de JavaScript e ECMAScript para Iniciantes do Curso em Vídeo (Gustavo Guanabara) no Youtube
 
